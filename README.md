@@ -1,2 +1,3 @@
 # georgia-peach4.github.io
-x = 3
+# about me
+my name is L
